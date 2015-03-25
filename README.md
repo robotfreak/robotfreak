@@ -8,6 +8,12 @@ This is my collection of projects migrated from google.code https://code.google.
 
 [![Ardubot](http://farm3.static.flickr.com/2700/4032469329_bb50e8edd0_m.jpg)](https://github.com/robotfreak/robotfreak/tree/master/ardubot)
 
+##BoBette
+
+BoBette is a biped robot using a Wattduino pro mini controller and a 3D printed chassis. 
+
+[![BoBette](https://farm8.staticflickr.com/7649/16310389023_fe9cec09c5_m.jpg)](https://github.com/robotfreak/robotfreak/tree/master/BoBette)
+
 ##IOIO-SHR
 
 A Java programmable robot using an Android phone and the IOIO board.
