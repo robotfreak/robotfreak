@@ -28,17 +28,29 @@ A Java programmable robot using an Android phone and the IOIO board.
 
 ##Mr. Red Adair
 
+Mr. Red Adair - Fire fighting robot
+
 [![Mr. Red Adiar](http://farm4.static.flickr.com/3385/3625798875_de5cfa762b_m.jpg)](https://github.com/robotfreak/robotfreak/tree/master/mr-red-adair)
 
 ##MASHR
 
+MASHR - My Arduino Start Here Robot
+
 [![MASHR](http://farm5.static.flickr.com/4084/5148959554_05b57b52d0_m.jpg)](https://github.com/robotfreak/robotfreak/tree/master/mashr)
+
+##MURCS
+
+MURCS - Multi Use Robot Construction Kit.
+
+[![MURCS](https://farm9.staticflickr.com/8727/16723328037_8c0374fb05_m.jpg)](https://github.com/robotfreak/robotfreak/tree/master/murcs)
 
 ##Pacman
 
 [![Pacman](http://farm5.static.flickr.com/4154/4956103079_8ecfbc5cb6_m_d.jpg)](https://github.com/robotfreak/robotfreak/tree/master/pacman)
 
 ##YAABR
+
+YAABR - Yet another Arduino based robot
 
 [![YAABR](http://farm4.static.flickr.com/3610/3402658784_bc90f98224_m.jpg)](https://github.com/robotfreak/robotfreak/tree/master/yaabr)
 
