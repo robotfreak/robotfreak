@@ -14,6 +14,12 @@ BoBette is a biped robot using a Wattduino pro mini controller and a 3D printed 
 
 [![BoBette](https://farm8.staticflickr.com/7649/16310389023_fe9cec09c5_m.jpg)](https://github.com/robotfreak/robotfreak/tree/master/BoBette)
 
+##Drifter
+
+Drifter is an autonomous car build from a cheap RC car
+
+[![Drifter](https://farm8.staticflickr.com/7633/16723420917_930f9f59ae_m.jpg)](https://github.com/robotfreak/robotfreak/tree/master/drifter)
+
 ##FrankenBoB
 
 FrankenBob is a Biped robot uisng a Wattduino Pro Mini as controller and a chassis made out of Polystyrol (PS) sheets.
