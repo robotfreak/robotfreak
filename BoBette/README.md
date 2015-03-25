@@ -9,3 +9,6 @@ BoBette is a biped robot using a Wattduino pro mini controller and a 3D printed 
 
 ##Features
 
+##Weblinks
+
+* [Makezine - Bob the Biped](http://makezine.com/2013/08/25/build-your-own-biped-robot/)
