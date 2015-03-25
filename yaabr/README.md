@@ -8,4 +8,7 @@ YABR is an abbreviation for Yet another Arduino based robot.
 
 ##Features
 
+* obstacle avoiding
+* line following
+
 ##Details
