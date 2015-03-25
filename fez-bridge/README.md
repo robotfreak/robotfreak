@@ -1,5 +1,4 @@
 #FezBridge
-FezBridge is a ABD implementation for .NETMF FEZ devices
 
 FezBridge is an [Android Debug Bridge (ADB)](http://developer.android.com/guide/developing/tools/adb.html) implementation in .NETMF for FEZ Devices.
 
