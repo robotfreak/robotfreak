@@ -14,6 +14,12 @@ BoBette is a biped robot using a Wattduino pro mini controller and a 3D printed 
 
 [![BoBette](https://farm8.staticflickr.com/7649/16310389023_fe9cec09c5_m.jpg)](https://github.com/robotfreak/robotfreak/tree/master/BoBette)
 
+##FrankenBoB
+
+FrankenBob is a Biped robot uisng a Wattduino Pro Mini as controller and a chassis made out of Polystyrol (PS) sheets.
+
+[![FrankenBoB](https://farm9.staticflickr.com/8745/16904592476_468dfd8e70_m.jpg)](https://github.com/robotfreak/robotfreak/tree/master/FrankenBoB)
+
 ##IOIO-SHR
 
 A Java programmable robot using an Android phone and the IOIO board.
