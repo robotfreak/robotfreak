@@ -3,6 +3,7 @@
 <h2>Introduction</h2>
 
 Ardubot is named after the 'Ardubot Bare PCB' from Sparkfun, which build the chassis of Ardubot. 
+[![Ardubot](http://farm3.static.flickr.com/2700/4032469329_bb50e8edd0_m.jpg)](https://github.com/robotfreak/robotfreak/tree/master/ardubot)
 
 
 <h2>Features</h2>
