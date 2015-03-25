@@ -31,7 +31,7 @@ A Java programmable robot using an Android phone and the IOIO board.
 ##Videos
 
 * [![IOIO-SHR - Line Follower](https://i.ytimg.com/vi/7oPWN1_5u1E/2.jpg?time=1427318477161)](http://www.youtube.com/watch?v=7oPWN1_5u1E) IOIO-SHR - Line Follower
-* [![IOIO-SHR - Obstacle Avoiding](https://i.ytimg.com/vi/IGkqdokwDXQ/3.jpg?time=1427318634366](http://www.youtube.com/watch?v=IGkqdokwDXQ) IOIO-SHR - Obstacle Avoiding
+* [![IOIO-SHR - Obstacle Avoiding](https://i.ytimg.com/vi/IGkqdokwDXQ/3.jpg?time=1427318634366)](http://www.youtube.com/watch?v=IGkqdokwDXQ) IOIO-SHR - Obstacle Avoiding
 * [![IOIO-SHR - Object Follower](https://i.ytimg.com/vi/8w-0x8YQ064/2.jpg?time=1427318746387)](http://www.youtube.com/watch?v=8w-0x8YQ064) IOIO-SHR - Object Follower
 * [![IOIO-Rover](https://i.ytimg.com/vi/pequzICEv5Q/3.jpg?time=1427318404253)](https://www.youtube.com/watch?v=pequzICEv5Q) IOIO-Rover
 
