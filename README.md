@@ -1,4 +1,5 @@
-<h2>Introdution
+<h2>Introduction</h2>
+
 This is my collection of robots migrated from google.code https://code.google.com/p/robotfreak/
 
 <h2>Ardubot</h2>
@@ -12,8 +13,6 @@ A Java programmable robot using an Android phone and the IOIO board.
 <h2>Mr. Red Adair</h2>
 
 http://farm4.static.flickr.com/3385/3625798875_de5cfa762b_m.jpg
-
-[MrRedAdair]
 
 <h2>MASHR</h2>
 
