@@ -1,9 +1,8 @@
-#MASHR Arduino based start here robot
-
+#MASHR
 
 ##Introduction
 
-MASHR is my attempt to build a start here robot for beginners. It is Arduino based, but didn't use a standard Arduino booard. An Romeo all-in-one robot controller (Arduino compatible with motor driver) has been used instead. The chassis is selfmade from a sheet of polystyrol (PS).
+MASHR is an abbreviation for My Arduino Start Here Robot. MASHR is my attempt to build a start here robot for beginners. It is Arduino based, but didn't use a standard Arduino booard. An Romeo all-in-one robot controller (Arduino compatible with motor driver) has been used instead. The chassis is selfmade from a sheet of polystyrol (PS).
 
 [![MASHR](http://farm5.static.flickr.com/4084/5148959554_05b57b52d0_m.jpg)](https://github.com/robotfreak/robotfreak/tree/master/mashr)
 
