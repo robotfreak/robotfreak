@@ -1,14 +1,18 @@
-<h1>Ardubot is a modular Arduino based robot</h2>
+#Ardubot
 
-<h2>Introduction</h2>
+##Introduction
 
-Ardubot is named after the 'Ardubot Bare PCB' from Sparkfun, which build the chassis of Ardubot. 
+Ardubot is a modular Arduino based robot. It is named after the 'Ardubot Bare PCB' from Sparkfun, which build the chassis of Ardubot. 
 [![Ardubot](http://farm3.static.flickr.com/2700/4032469329_bb50e8edd0_m.jpg)](https://github.com/robotfreak/robotfreak/tree/master/ardubot)
 
 
-<h2>Features</h2>
+##Features
 
-<h2>Partlist</h2> 
+* Line following
+* Obstacle avoider
+* Wheel encoders
+
+##Partlist 
 
  * Seeeduino V328 Arduino compatible processor board
  * Ardubot Bare PCB 
@@ -22,14 +26,14 @@ Ardubot is named after the 'Ardubot Bare PCB' from Sparkfun, which build the cha
  * 2nd I2C port expander on Ardubot PCB for line sensor
  * 74AC14 Hex Inverter with Schmitt-Trigger inputs on Ardubot PCB for general purpose use
 
-<h2>Videos</h2> 
+##>Videos
 
-Ardubot writes LMR (kinda)
 
-* video1 http://www.youtube.com/watch?v=GM3jkn8ZhFc
-* video2 http://www.youtube.com/watch?v=MKkgG_4Nb8E
 
-<h2>Weblinks</h2> 
+* [![Ardubot writes LMR (kinda)](https://i.ytimg.com/vi/GM3jkn8ZhFc/2.jpg?time=1427313236831)](http://www.youtube.com/watch?v=GM3jkn8ZhFc) Ardubot writes LMR (kinda)
+* [![Ardubot makes sound with motors](https://i.ytimg.com/vi/MKkgG_4Nb8E/2.jpg?time=1427313317554)](http://www.youtube.com/watch?v=MKkgG_4Nb8E) Ardubot makes sound with motors
+
+##Weblinks 
 
  * http://letsmakerobots.com/node/11987 ArduBot at letsmakerobots
  * http://www.robotfreak.de/blog/robotik/ardubot/194 Ardubot at RobotFreak Blog
