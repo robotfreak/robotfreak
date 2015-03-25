@@ -1,8 +1,11 @@
-<h1>YAABR. Yet another Arduino based robot</h1>
+#YAABR
 
-<h2>Introduction</h2>
+##Introduction
 
+YABR is an abbreviation for Yet another Arduino based robot.
 
+[![YAABR](http://farm4.static.flickr.com/3610/3402658784_bc90f98224_m.jpg)](https://github.com/robotfreak/robotfreak/tree/master/yaabr)
 
+##Features
 
-<h2>Details</h2>
+##Details
