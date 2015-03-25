@@ -1,5 +1,4 @@
 <h1>Pacman robot using .NETMF and FEZ Domino</h1>
-#labels Featured
 
 <h2>Introduction</h2>
 
