@@ -12,6 +12,8 @@ This is my collection of projects migrated from google.code https://code.google.
 
 A Java programmable robot using an Android phone and the IOIO board.
 
+[![IOIO-Rover](https://farm8.staticflickr.com/7651/16307856094_d7ca19beb8_m.jpg IOIO-Rover)](https://github.com/robotfreak/robotfreak/tree/master/ioio) IOIO-Rover
+
 ##Mr. Red Adair
 
 [![Mr. Red Adiar](http://farm4.static.flickr.com/3385/3625798875_de5cfa762b_m.jpg)](https://github.com/robotfreak/robotfreak/tree/master/mr-red-adair)
