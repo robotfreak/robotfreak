@@ -4,7 +4,7 @@
 
 Mr. Red Adair is based on the Mr. Basic chassis from Arexx/Dagu. He was build for the Mr. Basic challenge at letsmakerobots.com and has won 3. place.
 
-[![Mr. Red Adair](http://farm4.static.flickr.com/3385/3625798875_de5cfa762b.jpg)]https://github.com/robotfreak/robotfreak/tree/master/mr-red-adair)
+[![Mr. Red Adair](http://farm4.static.flickr.com/3385/3625798875_de5cfa762b.jpg)](https://github.com/robotfreak/robotfreak/tree/master/mr-red-adair)
 
 ##Features
 
