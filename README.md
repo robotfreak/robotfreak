@@ -1,4 +1,4 @@
-#Older Robots 
+#Older robot projects 
 
 This is my collection of projects migrated from google.code https://code.google.com/p/robotfreak/
 
